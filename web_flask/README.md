@@ -1,3 +1,3 @@
 - 0x04. AirBnB clone - Web framework
 
-web flask
+web flask and update web static
